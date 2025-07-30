@@ -1,0 +1,6 @@
+Primeiro de tudo temos que saber a diferença entre c# e .Net
+Em resumo c# é uma linguagem e o .Net um framework (conjunto de ferramentas).
+
+ Antes de tudo temos o "namespace" que é o nome do projeto.
+
+ Lemnrando que tudo que acontece e que for desenvolvido é em um class, o primeiro é o nome do arquivo

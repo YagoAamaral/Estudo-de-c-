@@ -1,0 +1,15 @@
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.sourcelink.json
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\yagoa\OneDrive\Documentos\Estudo-de-c-\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
